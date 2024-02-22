@@ -28,7 +28,7 @@
 defined('MOODLE_INTERNAL') || die();
 
 $plugin->component = 'block_coursefilesarchive';
-$plugin->version = 2023012900;
+$plugin->version = 2024022700;
 $plugin->requires = 2020061500.00; // 3.9 (Build: 20200615).
 $plugin->supported = array(39, 401);
 $plugin->release = '39.0.1';
